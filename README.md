@@ -1,1 +1,1 @@
-# ece-devops-lab3
+DevOps Lab3 Maeli and Miguel
